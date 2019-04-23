@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="API_KEY">sANk86Wq86lW_lh_yW_FKkvkwm8jVM2UF2osefHyFnOQ</string>
+    <string name="write_text">Write text</string>
+    <string name="default_text">Team, I know that times are tough! Product sales have been disappointing for the past three quarters. We have a competitive product, but we need to do a better job of selling it!</string>
+    <string name="analyze">Analyze</string>
+    <string name="search_in_twitter">Search in twitter</string>
+</resources>
